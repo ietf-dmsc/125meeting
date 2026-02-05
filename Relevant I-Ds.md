@@ -19,9 +19,11 @@
         6. Requirements for Agent Gateway(https://datatracker.ietf.org/doc/draft-liu-dmsc-gw-requirements/)
 
         7. Security Analysis of Multi-agents Secured Communication and Limitations of Existing Protocols(https://datatracker.ietf.org/doc/draft-zhang-dmsc-mas-communication/)
+        
+        8. Ontology-based Semantic Interaction for Internet of Agents(https://datatracker.ietf.org/doc/draft-zhang-dmsc-ioa-semantic-interaction/)
 
-        8. Multi Agents Discovery in Cloud(Alibaba, to be submitted)
+        9. Multi Agents Discovery in Cloud(Alibaba, to be submitted)
 
-        9. Semantic-Aware Discovery and Invocation for AI Agents(draft-cui-dmsc-ai-agent-discovery-invocation/To be submitted)
+        10. Semantic-Aware Discovery and Invocation for AI Agents(draft-cui-dmsc-ai-agent-discovery-invocation/To be submitted)
 
-        10. Using Natural Language for Universal Coordination in Multi Agent Systems(IBM/Dinesh/To be submitted)
+        11. Using Natural Language for Universal Coordination in Multi Agent Systems(IBM/Dinesh/To be submitted)
