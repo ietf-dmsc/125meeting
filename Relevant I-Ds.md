@@ -25,6 +25,7 @@
 
         10. Multi Agents Discovery in Cloud(Alibaba, to be submitted)
 
-        11. Cross-Domain Interoperability Framework for AI Agent Collaboration(https://datatracker.ietf.org/doc/draft-cui-dmsc-agent-cdi/)
+        11.AI Agent Discovery and Invocation Protocol(https://datatracker.ietf.org/doc/draft-cui-ai-agent-discovery-invocation/)
+        12. Cross-Domain Interoperability Framework for AI Agent Collaboration(https://datatracker.ietf.org/doc/draft-cui-dmsc-agent-cdi/)
 
-        12. Using Natural Language for Universal Coordination in Multi Agent Systems(https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/)
+        13. Using Natural Language for Universal Coordination in Multi Agent Systems(https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/)
