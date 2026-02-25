@@ -19,7 +19,8 @@
         <li>Security Analysis of Multi-agents Secured Communication and Limitations of Existing Protocols(https://datatracker.ietf.org/doc/draft-zhang-dmsc-mas-communication/)</li> 
         <li>Ontology-based Semantic Interaction for Internet of Agents(https://datatracker.ietf.org/doc/draft-zhang-dmsc-ioa-semantic-interaction/)</li>   
         <li>Multi Agents Discovery in Cloud(Alibaba, to be submitted)</li>
-       <li>AI Agent Discovery and Invocation Protocol(https://datatracker.ietf.org/doc/draft-cui-ai-agent-discovery-invocation/)</li>
-       <li>Cross-Domain Interoperability Framework for AI Agent Collaboration(https://datatracker.ietf.org/doc/draft-cui-dmsc-agent-cdi/)</li>            
-       <li> Using Natural Language for Universal Coordination in Multi Agent Systems(https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/)</li>     
+        <li>AI Agent Discovery and Invocation Protocol(https://datatracker.ietf.org/doc/draft-cui-ai-agent-discovery-invocation/)</li>
+        <li>Cross-Domain Interoperability Framework for AI Agent Collaboration(https://datatracker.ietf.org/doc/draft-cui-dmsc-agent-cdi/)</li>            
+        <li> Using Natural Language for Universal Coordination in Multi Agent Systems(https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/)</li>   
+       </ol>
       
