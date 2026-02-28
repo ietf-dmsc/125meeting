@@ -22,5 +22,7 @@
         <li>AI Agent Discovery and Invocation Protocol(https://datatracker.ietf.org/doc/draft-cui-ai-agent-discovery-invocation/)</li>
         <li>Cross-Domain Interoperability Framework for AI Agent Collaboration(https://datatracker.ietf.org/doc/draft-cui-dmsc-agent-cdi/)</li>            
         <li> Using Natural Language for Universal Coordination in Multi Agent Systems(https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/)</li>   
+        <li> Relay Attacks in Intra-handshake Attestation for Confidential Agentic AI Systems (https://mailarchive.ietf.org/arch/msg/dmsc/QC2adIcYkxiTlniEcc7ggk86BAY/)</li>   
+        <li> Remote Attestation with Exported Authenticators (https://datatracker.ietf.org/doc/draft-fossati-seat-expat/)</li>   
        </ol>
       
