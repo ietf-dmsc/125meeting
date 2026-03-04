@@ -11,6 +11,7 @@
         </ol>
       - Solutions
         <ol type="1">
+        <li> Problem Statement and Requirements for Dynamic Multi-agent Secured Collaboration (DMSC) (https://datatracker.ietf.org/doc/html/draft-song-dmsc-problem-statement) </li>
         <li>Multi-agent Collaboration Protocol Suite(https://datatracker.ietf.org/doc/draft-li-dmsc-macp/))</li>
         <li>Dynamic Multi-agents Secured Collaboration Infrastructure architecture(https://datatracker.ietf.org/doc/draft-li-dmsc-inf-architecture/)</li>
         <li>Agent Collaboration Protocols Architecture for Internet of Agents https://datatracker.ietf.org/doc/draft-liu-dmsc-acps-arc/</li> 
@@ -23,6 +24,7 @@
         <li>AI Agent Discovery and Invocation Protocol(https://datatracker.ietf.org/doc/draft-cui-ai-agent-discovery-invocation/)</li>
         <li>Cross-Domain Interoperability Framework for AI Agent Collaboration(https://datatracker.ietf.org/doc/draft-cui-dmsc-agent-cdi/)</li>            
         <li> Using Natural Language for Universal Coordination in Multi Agent Systems(https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/)</li>   
+        <li> HJS: A Judgment Event Protocol(https://datatracker.ietf.org/doc/draft-wang-hjs-judgment-event/)</li>  
         <li> Relay Attacks in Intra-handshake Attestation for Confidential Agentic AI Systems (https://mailarchive.ietf.org/arch/msg/dmsc/QC2adIcYkxiTlniEcc7ggk86BAY/)</li>   
         <li> Remote Attestation with Exported Authenticators (https://datatracker.ietf.org/doc/draft-fossati-seat-expat/)</li>   
        </ol>
