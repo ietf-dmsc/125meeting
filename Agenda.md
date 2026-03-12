@@ -18,7 +18,7 @@
     https://datatracker.ietf.org/doc/draft-liu-dmsc-gw-requirements/  <br>
 
 5.  Agent Collaboration Protocols Architecture for Internet of Agents.   25 minutes  <br>
-    Keyu/BUPT <br>
+    Ke Yu/BUPT <br>
     Draft: https://datatracker.ietf.org/doc/draft-liu-dmsc-acps-arc/  <br>
 
 6.  Intent-based Agent Interconnection Protocol at Agent Gateway.   15 minutes  <br>
