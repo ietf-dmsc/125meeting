@@ -1,5 +1,5 @@
 
-## Wednesday(3/18) 2:30-4:30PM UTC+8 Jiangsu Room  https://ietf.webex.com/meet/sidemeetings2
+## Wednesday(3/18,2026) 2:30-4:30PM UTC+8 Jiangsu Room  https://ietf.webex.com/meet/sidemeetings2
 
 1.  Overview of DMSC current status.   10 minutes  <br>
     Aijun Wang/China Telecom  <br>
@@ -8,7 +8,7 @@
     Enge Song/Alibaba   <br>
     Draft: https://www.ietf.org/archive/id/draft-song-dmsc-problem-statement-00.txt  <br>
 
-3.  DMSC Infrastructure Architecture and Multi-Agent Collaboration Protocol Suite (MACP).  20 minutes  <br>
+3.  DMSC Infrastructure Architecture and Multi-Agent Collaboration Protocol Suite (MACP).  25 minutes  <br>
     Xueting Li/China Telecom  <br>
     Draft: https://datatracker.ietf.org/doc/draft-li-dmsc-inf-architecture/      <br>
     Draft: https://datatracker.ietf.org/doc/draft-li-dmsc-macp/  <br>
@@ -17,7 +17,7 @@
     Bing Liu/Huawei  <br>
     https://datatracker.ietf.org/doc/draft-liu-dmsc-gw-requirements/  <br>
 
-5.  Agent Collaboration Protocols Architecture for Internet of Agents.   30 minutes  <br>
+5.  Agent Collaboration Protocols Architecture for Internet of Agents.   25 minutes  <br>
     Keyu/BUPT <br>
     Draft: https://datatracker.ietf.org/doc/draft-liu-dmsc-acps-arc/  <br>
 
@@ -36,7 +36,7 @@
 
 
 
-## Thursday(3/19) 10:00-12:00AM UTC+8 Jiangsu Room  https://ietf.webex.com/meet/sidemeetings2
+## Thursday(3/19,2026) 10:00-12:00AM UTC+8 Jiangsu Room  https://ietf.webex.com/meet/sidemeetings2
 1.  Brief Introduction.    5 minutes <br>
     Aijun Wang/China Telecom  <br>
     
