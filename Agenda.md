@@ -8,7 +8,7 @@
     Enge Song/Alibaba   <br>
     Draft: https://www.ietf.org/archive/id/draft-song-dmsc-problem-statement-00.txt  <br>
 
-3.  DMSC Infrastructure Architecture and Multi-Agent Collaboration Protocol Suite (MACP).  25 minutes  <br>
+3.  DMSC Infrastructure Architecture and Multi-Agent Collaboration Protocol Suite (MACP).  20 minutes  <br>
     Xueting Li/China Telecom  <br>
     Draft: https://datatracker.ietf.org/doc/draft-li-dmsc-inf-architecture/      <br>
     Draft: https://datatracker.ietf.org/doc/draft-li-dmsc-macp/  <br>
@@ -17,16 +17,19 @@
     Bing Liu/Huawei  <br>
     https://datatracker.ietf.org/doc/draft-liu-dmsc-gw-requirements/  <br>
 
-5.  Agent Collaboration Protocols Architecture for Internet of Agents.   25 minutes  <br>
+5. Agent Communication Gateway for Semantic Routing and Working Memory 10 minutes <br>
+   Bingsong Wu/Tsinghua <br> 
+   https://datatracker.ietf.org/doc/draft-agent-gw/  <br>
+6.  Agent Collaboration Protocols Architecture for Internet of Agents.   20 minutes  <br>
     Ke Yu/BUPT <br>
     Draft: https://datatracker.ietf.org/doc/draft-liu-dmsc-acps-arc/  <br>
 
-6.  Intent-based Agent Interconnection Protocol at Agent Gateway.   15 minutes  <br>
+7.  Intent-based Agent Interconnection Protocol at Agent Gateway.   15 minutes  <br>
     Sheng Sun/CAS  <br>
     Draft: https://datatracker.ietf.org/doc/html/draft-sz-dmsc-iaip  <br>
      
 
-7.  Agent Identity Protocol (AIP) .  15 minutes  <br>
+8.  Agent Identity Protocol (AIP) .  15 minutes  <br>
     James Cao/Open AIP Working Group  <br>
     Draft: https://agentidentityprotocol.io/ietf/ietf-draft-00  <br>
     Reference: https://agentidentityprotocol.io  <br>
