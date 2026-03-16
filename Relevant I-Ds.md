@@ -17,6 +17,7 @@
         <li>Agent Collaboration Protocols Architecture for Internet of Agents https://datatracker.ietf.org/doc/draft-liu-dmsc-acps-arc/</li> 
         <li>Internet of Agents Task Protocol (IoA Task Protocol) for Heterogeneous Agent Collaboration https://datatracker.ietf.org/doc/draft-yang-dmsc-ioa-task-protocol/</li>
         <li>Requirements for Agent Gateway(https://datatracker.ietf.org/doc/draft-liu-dmsc-gw-requirements/)</li> 
+           <li> Agent Communication Gateway for Semantic Routing and Working Memory (https://datatracker.ietf.org/doc/draft-agent-gw/)/<li>
         <li> Intent-based Agent Interconnection Protocol at Agent Gateway (https://www.ietf.org/ietf-ftp/internet-drafts/draft-sz-dmsc-iaip-00.txt) </li>   
         <li>Security Analysis of Multi-agents Secured Communication and Limitations of Existing Protocols(https://datatracker.ietf.org/doc/draft-zhang-dmsc-mas-communication/)</li> 
         <li>Ontology-based Semantic Interaction for Internet of Agents(https://datatracker.ietf.org/doc/draft-zhang-dmsc-ioa-semantic-interaction/)</li>   
